@@ -34,5 +34,6 @@ smarter, faster, and more effective.
 📫 Connect With Me
 
 - GitHub: https://github.com/jaatni816
-
+- bangernargish@gmail.com
+- https://nargishportfolio.vercel.app/
 ⭐ Always learning, always growing.
