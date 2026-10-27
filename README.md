@@ -18,18 +18,11 @@ smarter, faster, and more effective.
 
 🛠️ Skills
 
-- HTML5
-- CSS3
-- JavaScript
+- Social media management
+- Digital marketing knowledge 
+- Website building
 - Git
 - GitHub
-
-📂 Featured Projects
-
-- 🧮 Calculator
-- ✅ To-Do List
-- 🌐 Portfolio Website
-- 🔐 Login Page
 
 📈 Current Goals
 
