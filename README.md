@@ -37,4 +37,4 @@ smarter, faster, and more effective.
 - bangernargish@gmail.com
 - https://nargishportfolio.vercel.app/
 - https://youtube.com/@minicraftkitchen01?si=mspGZk3nTUglInJI
-⭐ Always learning, always growing.
+
